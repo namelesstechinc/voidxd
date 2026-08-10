@@ -1,0 +1,11 @@
+node_modules/
+.env
+voidstore/pairing/
+tmp/
+logs/
+sticker/*.jpg
+sticker/*.mp4
+sticker/*.webp
+auth.json
+npm-debug.log
+*.log
