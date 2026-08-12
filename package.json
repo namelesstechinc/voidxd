@@ -1,7 +1,7 @@
 {
   "name": "void-xd",
   "version": "3.1.0",
-  "description": "WhatsApp bot powered by Nameless Tech — deploy with a SESSION_ID, no code editing required",
+  "description": "WhatsApp bot powered by Nameless Tech \u2014 deploy with a SESSION_ID, no code editing required",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -58,7 +58,6 @@
     "gtts": "^0.2.1",
     "header-generator": "^2.1.54",
     "human-readable": "^0.2.1",
-    "javascript-obfuscator": "^4.1.1",
     "jimp": "^1.6.0",
     "jsdom": "^25.0.1",
     "link-preview-js": "^3.0.5",
